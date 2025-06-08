@@ -1,0 +1,84 @@
+body {
+    font-family: sans-serif;
+    background-color: grey;
+}
+header{
+ background-image: linear-gradient(white, grey);
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color: grey;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+footer{
+    background-image: linear-gradient(grey, white);
+}
+section{
+    border-radius: 15px;
+    border: 3px solid grey;
+    margin: 20px;
+}
+.social img:hover{
+    border-radius: 25%;
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3)
+}
+.myjob img{
+    display: flex;
+    float:right;
+    align-items: center;
+    justify-content: space-between;
+}
+.myjob p a{
+    margin-right: 20px;
+    margin:0;
+}
+.inline-image{
+    display: inline;
+    vertical-align: middle;
+    width: 100px;
+}
+.inline-image2{
+    display: inline;
+    vertical-align: middle;
+    width: 30px;
+}
+.inline-image3{
+    display: inline;
+    width: 50px;
+    vertical-align: middle;
+}
+.inline-image4{
+    display: inline;
+    vertical-align: middle;
+    width: 30px;
+}
+.inline-image5{
+    display: inline;
+    vertical-align: middle;
+    width: 30px;
+}
+.inline-image6{
+    display: inline;
+    vertical-align: middle;
+    width: 30px;
+}
+.inline-image7{
+    display: inline;
+    vertical-align: middle;
+    width: 30px;
+}
